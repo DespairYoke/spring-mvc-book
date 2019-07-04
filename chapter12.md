@@ -129,4 +129,4 @@ protected Collection<ApplicationListener<?>> getApplicationListeners(
 
 首先我们要创建一个事件，把事件放入监听器中，然后把监听器交给Spring，等待Spring初始化完成后，触发我们的自定义事件，执行监听器中的方法。
 
-[基于注解的使用示例](*https://github.com/DespairYoke/java-advance/blob/master/spring5/spring-event.md*)
+[基于注解的使用示例](https://github.com/DespairYoke/java-advance/tree/master/spring5/spring-mvc-event)
